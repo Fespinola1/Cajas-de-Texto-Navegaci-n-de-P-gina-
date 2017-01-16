@@ -1,0 +1,26 @@
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\bin\Debug\CajasdeTexto.dll
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\bin\Debug\CajasdeTexto.pdb
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.csprojResolveAssemblyReference.cache
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.dll
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.pdb
+c:\users\tecni\documents\visual studio 2015\Projects\CajasdeTexto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.HomePage.xaml.g.cs
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\CajasdeTexto.dll
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\CajasdeTexto.pdb
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Core.dll
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Platform.dll
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Xaml.dll
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Core.xml
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Xaml.xml
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.csprojResolveAssemblyReference.cache
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.HomePage.xaml.g.cs
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.dll
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.pdb
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Core.pdb
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Platform.pdb
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\bin\Debug\Xamarin.Forms.Xaml.pdb
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\obj\Debug\CajasdeTexto.Page1.xaml.g.cs

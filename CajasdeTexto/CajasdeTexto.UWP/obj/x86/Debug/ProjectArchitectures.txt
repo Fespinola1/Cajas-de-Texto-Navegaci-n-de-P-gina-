@@ -1,0 +1,2 @@
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto.UWP\CajasdeTexto.UWP.csproj;x86
+G:\Git Hub\Cajas de Texto\CajasdeTexto\CajasdeTexto\CajasdeTexto.csproj;neutral
